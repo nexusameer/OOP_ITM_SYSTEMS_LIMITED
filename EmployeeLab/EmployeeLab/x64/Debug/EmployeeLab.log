@@ -1,4 +1,3 @@
-﻿  Employee.cpp
-  EmployeeLab.cpp
-  Generating Code...
-  EmployeeLab.vcxproj -> F:\Projects\OOP\EmployeeLab\EmployeeLab\x64\Debug\EmployeeLab.exe
+﻿  EmployeeLab.cpp
+F:\Projects\OOP\EmployeeLab\EmployeeLab\EmployeeLab.cpp(19,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  EmployeeLab.vcxproj -> F:\Projects\OOP\EmployeeLab\x64\Debug\EmployeeLab.exe

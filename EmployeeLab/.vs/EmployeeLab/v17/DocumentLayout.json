@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\",
+  "WorkspaceRootPath": "F:\\Projects\\OOP\\EmployeeLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|solutionrelative:EmployeeLab\\EmployeeLab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|solutionrelative:EmployeeLab\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|solutionrelative:EmployeeLab\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\EmployeeLab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{398BB95D-7C08-49A6-AC31-A39BDAAF5783}|EmployeeLab\\EmployeeLab.vcxproj|solutionrelative:EmployeeLab\\EmployeeLab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cpp",
-              "DocumentMoniker": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\Employee.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\Employee.cpp",
               "RelativeDocumentMoniker": "EmployeeLab\\Employee.cpp",
-              "ToolTip": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\Employee.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\Employee.cpp",
               "RelativeToolTip": "EmployeeLab\\Employee.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-27T13:23:38.586Z"
+              "WhenOpened": "2024-10-27T13:23:38.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Employee.h",
-              "DocumentMoniker": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\Employee.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\Employee.h",
               "RelativeDocumentMoniker": "EmployeeLab\\Employee.h",
-              "ToolTip": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\Employee.h",
+              "ToolTip": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\Employee.h",
               "RelativeToolTip": "EmployeeLab\\Employee.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -51,15 +52,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EmployeeLab.cpp",
-              "DocumentMoniker": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\EmployeeLab.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab.cpp",
               "RelativeDocumentMoniker": "EmployeeLab\\EmployeeLab.cpp",
-              "ToolTip": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab\\EmployeeLab.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\EmployeeLab\\EmployeeLab\\EmployeeLab.cpp",
               "RelativeToolTip": "EmployeeLab\\EmployeeLab.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-27T13:20:36.349Z"
+              "WhenOpened": "2024-10-27T13:20:36.349Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,25 @@
+#include "Random.h"
+
+Random::Random() : width(0), length(0), height(0){
+}
+
+
+float Random::getWidth()
+{
+	// TODO: Add your implementation code here.
+	return width;
+}
+
+
+float Random::getLentgh()
+{
+	// TODO: Add your implementation code here.
+	return length;
+}
+
+
+float Random::getHeight()
+{
+	// TODO: Add your implementation code here.
+	return height;
+}

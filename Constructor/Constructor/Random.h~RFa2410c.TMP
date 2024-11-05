@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+#pragma once
+class Random
+{
+public:
+	Random(float=8, float=10, float =10.3);
+	float getWidth();
+	float getLentgh();
+	float getHeight();
+private:
+	float length;
+	float width;
+	float height;
+};

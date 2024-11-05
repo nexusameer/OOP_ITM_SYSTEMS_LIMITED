@@ -1,0 +1,24 @@
+#include "Cat.h"
+#include <string> 
+#include <iostream>
+
+
+Cat::Cat()
+{
+	name = "nameless";
+	age = 0;
+}
+Cat::Cat(string n)
+{
+	name = n;
+	age = 0;
+}
+Cat::Cat(string n, int a)
+{
+	name = n;
+	age = a;
+}
+displayDetails()
+{
+	return name + " " + to_string(age);
+}

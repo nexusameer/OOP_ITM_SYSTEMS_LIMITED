@@ -30,6 +30,10 @@ int main()
 	cout << "total expenditure of company is : " << sum;
 
 	delete[] emp;
+	
+
+	return 0;
+
 
 
 }

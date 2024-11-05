@@ -1,0 +1,26 @@
+#include "Cat.h"
+#include <string>
+#include <iostream>
+using namespace std;
+
+Cat::Cat() {
+    name = "nameless";
+    age = 0;
+}
+
+// Constructor with name only
+Cat::Cat(std::string n) {
+    name = n;
+    age = 0;
+}
+
+// Constructor with name and age
+Cat::Cat(std::string n, int a) {
+    name = n;
+    age = a;
+}
+
+// Function to display cat details
+std::string Cat::displayDetails() {
+    return name + " " + std::to_string(age); // Combine name and age into a string
+}

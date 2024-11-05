@@ -1,0 +1,14 @@
+#pragma once
+class Cat
+#include<string>
+{
+public:
+	Cat();
+	Cat(string);
+	Cat(string, int);
+	displayDetails();
+private:
+	string name;
+	int age;
+};
+

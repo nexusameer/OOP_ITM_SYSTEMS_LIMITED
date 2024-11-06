@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 #include <iostream>
-
+using namespace std;
 class Bank
 {
 public:
@@ -10,13 +10,13 @@ public:
     void deposit(float amount);
     void withdraw(float amount);
     float get_balance() const;
-    std::string get_account_id() const;
+    string get_account_id() const;
     static void display_welcome_screen();
 
 private:
-    std::string account_number;
+    string account_number;
     float balance;
     static int account_counter;
-    static std::string bank_name;
+    static string bank_name;
 
 };

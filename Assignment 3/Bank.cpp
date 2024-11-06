@@ -1,13 +1,13 @@
 #include "Bank.h"
 #include <iomanip>
-using namespace std;
+
 
 int Bank::account_counter = 0;
-std::string Bank::bank_name = "Best Bank";
+string Bank::bank_name = "Meezan Bank";
 
 Bank::Bank() : balance(0.0) {
     account_counter++;
-    account_number = "ACC" + std::string(account_counter < 10 ? "00" : "0") + std::to_string(account_counter);
+    account_number = "ACC" + string(account_counter < 10 ? "00" : "0") + to_string(account_counter);
 }
 
 
@@ -37,7 +37,7 @@ float Bank::get_balance() const {
     return balance;
 }
 
-std::string Bank::get_account_id() const {
+string Bank::get_account_id() const {
     return account_number;
 }
 

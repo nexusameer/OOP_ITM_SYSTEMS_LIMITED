@@ -1,0 +1,24 @@
+#include "Bank.h"
+
+string Bank::account_number = "ACC001";
+
+void Bank::set_starting_balance(double b) {
+    balance = b;
+    account_number = account_number++;
+}
+
+double Bank::deposit(double d) {
+    balance += d;
+    return balance;
+}
+
+double Bank::withdraw(double w) {
+    if (w <= balance) {
+        balance -= w;
+    }
+    return balance;
+}
+
+double Bank::get_balance() {
+    return balance;
+}

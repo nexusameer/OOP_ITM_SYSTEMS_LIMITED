@@ -1,0 +1,18 @@
+#pragma once
+#include <string>
+#include <iostream>
+
+class Bank
+{
+    std::string account_number;
+
+public:
+    void set_starting_balance(double balance);
+    double deposit(double amount);
+    double withdraw(double amount);
+    double get_balance();
+
+private:
+    float balance = 0;
+    static int account_no;
+};

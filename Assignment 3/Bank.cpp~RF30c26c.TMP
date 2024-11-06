@@ -1,0 +1,24 @@
+#include "Bank.h"
+
+string Bank::account_number = "ACC001";
+
+void Bank::set_starting_balance(float b) {
+    balance = b;
+    account_number = account_number++;
+}
+
+float Bank::deposit(float d) {
+    balance += d;
+    return balance;
+}
+
+float Bank::withdraw(float w) {
+    if (w <= balance) {
+        balance -= w;
+    }
+    return balance;
+}
+
+float Bank::get_balance() {
+    return balance;
+}

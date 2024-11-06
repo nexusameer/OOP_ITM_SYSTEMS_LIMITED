@@ -1,20 +1,50 @@
-// Assignment 3.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
+#include "Bank.h"
 #include <iostream>
+#include <vector>
+using namespace std;
+int main() {
+    const int num_accounts = 10;
+    Bank accounts[num_accounts];
 
-int main()
-{
-    std::cout << "Hello World!\n";
+    for (int i = 0; i < num_accounts; ++i) {
+        accounts[i].set_starting_balance(100.0f);
+    }
+
+    for (int i = 0; i < num_accounts; i += 2) {
+        float deposit_amount;
+         cout << "Enter deposit amount for account " << accounts[i].get_account_id() << ": ";
+         cin >> deposit_amount;
+        accounts[i].deposit(deposit_amount);
+    }
+
+    Bank::display_welcome_screen();
+     cout << "Account details after deposits:\n";
+    for (const auto& account : accounts) {
+         cout << "Account ID: " << account.get_account_id() << ", Balance: " << account.get_balance() << "\n";
+    }
+
+    for (int i = 0; i < num_accounts; i += 2) {
+        float withdraw_amount;
+         cout << "Enter withdrawal amount for account " << accounts[i].get_account_id() << ": ";
+         cin >> withdraw_amount;
+        accounts[i].withdraw(withdraw_amount);
+    }
+
+    Bank::display_welcome_screen();
+     cout << "Account details after withdrawals:\n";
+    for (const auto& account : accounts) {
+         cout << "Account ID: " << account.get_account_id() << ", Balance: " << account.get_balance() << "\n";
+    }
+
+    Bank extra_account;
+    extra_account.set_starting_balance(500.0f);
+    extra_account.deposit(150.0f);
+    extra_account.withdraw(50.0f);
+
+     cout << "\nExtra account details:\n";
+     cout << "Account ID: " << extra_account.get_account_id() << ", Balance: " << extra_account.get_balance() << "\n";
+
+    Bank::display_welcome_screen();
+
+    return 0;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

@@ -1,0 +1,59 @@
+#include "Employee.h"
+int Employee::employeeCount = 0;
+Employee::Employee() {
+	name = " ";
+	number = " ";
+	hire_date = " ";
+	cout << "Constructor is called" << endl;
+	employeeCount++;
+}
+Employee::Employee(string name, string number, string hire_date) {
+	this->name = name;
+	this->number = number;
+	this->hire_date = hire_date;
+	cout << "Constructor is called" << endl;
+	employeeCount++;
+}
+Employee::~Employee() {
+	employeeCount--;
+	cout << "Destructor is called" << endl;
+}
+
+string Employee::getName()
+{
+	return name;
+}
+
+
+string Employee::getNumber()
+{
+	return number;
+}
+
+
+string Employee::getHireDate()
+{
+	return hire_date;
+}
+
+
+void Employee::setName(string n)
+{
+	name = n;
+}
+
+
+void Employee::setNumber(string num)
+{
+	number = num;
+}
+
+
+void Employee::setHireDate(string hd)
+{
+	hire_date = hd;
+}
+
+int Employee::getEmployeeCount() {
+	return employeeCount;
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\OOP\\Production\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|F:\\Projects\\OOP\\Production\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|solutionrelative:Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|F:\\Projects\\OOP\\Production\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|solutionrelative:Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|F:\\Projects\\OOP\\Production\\Production.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|solutionrelative:Production.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|F:\\Projects\\OOP\\Production\\ProductionWorker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|solutionrelative:ProductionWorker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|F:\\Projects\\OOP\\Production\\ProductionWorker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1072079-395D-424C-B297-9C1BE425B3B0}|Production.vcxproj|solutionrelative:ProductionWorker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductionWorker.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Production\\ProductionWorker.cpp",
+              "RelativeDocumentMoniker": "ProductionWorker.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\Production\\ProductionWorker.cpp",
+              "RelativeToolTip": "ProductionWorker.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T17:54:19.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductionWorker.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Production\\ProductionWorker.h",
+              "RelativeDocumentMoniker": "ProductionWorker.h",
+              "ToolTip": "F:\\Projects\\OOP\\Production\\ProductionWorker.h",
+              "RelativeToolTip": "ProductionWorker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T17:51:59.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Production\\Employee.cpp",
+              "RelativeDocumentMoniker": "Employee.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\Production\\Employee.cpp",
+              "RelativeToolTip": "Employee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T17:39:49.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Production\\Employee.h",
+              "RelativeDocumentMoniker": "Employee.h",
+              "ToolTip": "F:\\Projects\\OOP\\Production\\Employee.h",
+              "RelativeToolTip": "Employee.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T17:38:03.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Production.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Production\\Production.cpp",
+              "RelativeDocumentMoniker": "Production.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\Production\\Production.cpp",
+              "RelativeToolTip": "Production.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T17:37:14.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

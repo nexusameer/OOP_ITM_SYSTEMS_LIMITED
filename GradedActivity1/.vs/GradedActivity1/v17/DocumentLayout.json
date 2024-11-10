@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\OOP\\GradedActivity1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|solutionrelative:GradedActivity1\\GradedActivity1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\FinalExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|solutionrelative:GradedActivity1\\FinalExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|solutionrelative:GradedActivity1\\GradedActivity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\FinalExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|solutionrelative:GradedActivity1\\FinalExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FC56EA-88E7-463A-B9D0-BDEBCD4DCA45}|GradedActivity1\\GradedActivity1.vcxproj|solutionrelative:GradedActivity1\\GradedActivity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradedActivity.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity.cpp",
+              "RelativeDocumentMoniker": "GradedActivity1\\GradedActivity.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity.cpp",
+              "RelativeToolTip": "GradedActivity1\\GradedActivity.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T10:40:53.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalExam.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\FinalExam.cpp",
+              "RelativeDocumentMoniker": "GradedActivity1\\FinalExam.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\FinalExam.cpp",
+              "RelativeToolTip": "GradedActivity1\\FinalExam.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:49:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalExam.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\FinalExam.h",
+              "RelativeDocumentMoniker": "GradedActivity1\\FinalExam.h",
+              "ToolTip": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\FinalExam.h",
+              "RelativeToolTip": "GradedActivity1\\FinalExam.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T18:48:19.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GradedActivity.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity.h",
+              "RelativeDocumentMoniker": "GradedActivity1\\GradedActivity.h",
+              "ToolTip": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity.h",
+              "RelativeToolTip": "GradedActivity1\\GradedActivity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T18:48:00.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradedActivity1.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity1.cpp",
+              "RelativeDocumentMoniker": "GradedActivity1\\GradedActivity1.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\GradedActivity1\\GradedActivity1\\GradedActivity1.cpp",
+              "RelativeToolTip": "GradedActivity1\\GradedActivity1.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T18:47:26.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

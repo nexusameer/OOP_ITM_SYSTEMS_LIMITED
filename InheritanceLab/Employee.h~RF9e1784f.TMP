@@ -1,0 +1,19 @@
+#pragma once
+#include <string>
+using namespace std;
+
+class Employee
+{
+
+private:
+	string fname;
+	string lname;
+public:
+
+	void setFname(string f);
+	void setLname(string l);
+	string getFname();
+	string getLname();
+	void printDetails();
+};
+

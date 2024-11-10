@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\OOP\\InheritanceLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|F:\\Projects\\OOP\\InheritanceLab\\InheritanceLab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|solutionrelative:InheritanceLab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|F:\\Projects\\OOP\\InheritanceLab\\FullTimeEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|solutionrelative:FullTimeEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|F:\\Projects\\OOP\\InheritanceLab\\FullTimeEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|solutionrelative:FullTimeEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|F:\\Projects\\OOP\\InheritanceLab\\PartTimeEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|solutionrelative:PartTimeEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|F:\\Projects\\OOP\\InheritanceLab\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|solutionrelative:Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|F:\\Projects\\OOP\\InheritanceLab\\PartTimeEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|solutionrelative:PartTimeEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|F:\\Projects\\OOP\\InheritanceLab\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5923CE53-BC91-43EB-9E1D-EA0281A6DC8E}|InheritanceLab.vcxproj|solutionrelative:Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\InheritanceLab\\Employee.h",
+              "RelativeDocumentMoniker": "Employee.h",
+              "ToolTip": "F:\\Projects\\OOP\\InheritanceLab\\Employee.h",
+              "RelativeToolTip": "Employee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T11:11:18.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullTimeEmployee.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\InheritanceLab\\FullTimeEmployee.cpp",
+              "RelativeDocumentMoniker": "FullTimeEmployee.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\InheritanceLab\\FullTimeEmployee.cpp*",
+              "RelativeToolTip": "FullTimeEmployee.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T11:34:56.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullTimeEmployee.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\InheritanceLab\\FullTimeEmployee.h",
+              "RelativeDocumentMoniker": "FullTimeEmployee.h",
+              "ToolTip": "F:\\Projects\\OOP\\InheritanceLab\\FullTimeEmployee.h*",
+              "RelativeToolTip": "FullTimeEmployee.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T11:34:03.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartTimeEmployee.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\InheritanceLab\\PartTimeEmployee.cpp",
+              "RelativeDocumentMoniker": "PartTimeEmployee.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\InheritanceLab\\PartTimeEmployee.cpp*",
+              "RelativeToolTip": "PartTimeEmployee.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T11:27:54.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartTimeEmployee.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\InheritanceLab\\PartTimeEmployee.h",
+              "RelativeDocumentMoniker": "PartTimeEmployee.h",
+              "ToolTip": "F:\\Projects\\OOP\\InheritanceLab\\PartTimeEmployee.h*",
+              "RelativeToolTip": "PartTimeEmployee.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T11:25:34.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\InheritanceLab\\Employee.cpp",
+              "RelativeDocumentMoniker": "Employee.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\InheritanceLab\\Employee.cpp",
+              "RelativeToolTip": "Employee.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T11:12:47.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InheritanceLab.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\InheritanceLab\\InheritanceLab.cpp",
+              "RelativeDocumentMoniker": "InheritanceLab.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\InheritanceLab\\InheritanceLab.cpp*",
+              "RelativeToolTip": "InheritanceLab.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T11:10:20.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

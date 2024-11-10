@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+#include "Employee.h"
+#include "PartTimeEmployee.h"
+#include "FullTimeEmployee.h"
+int main()
+{
+    PartTimeEmployee p;
+    p.setFname("Muhammad");
+    p.setLname("Ali");
+    p.setHourRate(10);
+	p.makePayment(5);
+    FullTimeEmployee f;
+	f.setFname("Muhammad");
+	f.setLname("Ameer");
+	f.setSalary(10000);
+	f.payment();
+}

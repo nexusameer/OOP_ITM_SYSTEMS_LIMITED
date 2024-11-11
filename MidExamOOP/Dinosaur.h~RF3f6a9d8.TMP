@@ -1,0 +1,23 @@
+#pragma once
+class Dinosaur
+{
+public:
+	Dinosaur(string, int);
+	/* sets name and walking speed as specified during instantiation,
+	initialized distance_covered to zero [1] */
+	void walk(int time);
+	/* calculates distance by multiplying specified time with walking_speed
+	and adds to distance_covered; also displays a status e.g., Max is
+	walking [1] */
+	void showDistanceCovered();
+	/* displays distance covered e.g., Max has covered 2000km [1] */
+	string getName();
+	/* returns name [1] */
+protected:
+	void addToDistanceCovered(int);
+	/* adds specified value to distance_covered [1] */
+	string name;
+	int walking_speed;
+	int distance_covered;
+};
+

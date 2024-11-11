@@ -1,0 +1,34 @@
+#include "Dinosaur.h"
+
+Dinosaur::Dinosaur(string n, int w)
+{
+	/* sets name and walking speed as specified during instantiation,
+	initialized distance_covered to zero [1] */
+	name = n;
+	walking_speed = w;
+	distance_covered = 0;
+}
+
+
+void Dinosaur::walk(int time)
+{
+	/* calculates distance by multiplying specified time with walking_speed
+	and adds to distance_covered; also displays a status e.g., Max is
+	walking [1] */
+	distance_covered += time * walking_speed;
+	cout << name << " is walking\n";
+}
+
+
+void Dinosaur::showDistanceCovered()
+{
+	/* displays distance covered e.g., Max has covered 2000km [1] */
+	cout << name << " has covered " << distance_covered << "km\n";
+}
+
+
+string Dinosaur::getName()
+{
+	/* returns name [1] */
+	return ;
+}

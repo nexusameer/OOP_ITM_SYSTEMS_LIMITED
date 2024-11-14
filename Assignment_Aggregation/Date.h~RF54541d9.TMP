@@ -1,0 +1,9 @@
+class Date {
+public:
+	Date(int, string, int); // [1]
+	void writeToFile(ofstream& amp;); // [1]
+private:
+	int day;
+	string month;
+	int year;
+};

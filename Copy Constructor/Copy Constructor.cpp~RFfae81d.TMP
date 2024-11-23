@@ -1,0 +1,33 @@
+// Copy Constructor.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <iostream>
+using namespace std;
+#include "StudentTestScores.h";
+
+
+int main()
+{
+    StudentTestScores a("Ameer Hamza", 1);
+
+    cout<<a.getNumTestScores()<<endl;
+
+    StudentTestScores b(a);
+    cout << a.getStudentName() << endl;
+    cout << b.getStudentName() << endl;
+    cout << b.getStudentName() << endl;
+
+    cout<<b.getNumTestScores()<<endl;
+
+    a.setStudentName("Kamboh");
+    b.setStudentName("zain");
+
+	cout << a.getStudentName() << endl;
+	cout << b.getStudentName() << endl;
+
+
+
+
+
+
+}

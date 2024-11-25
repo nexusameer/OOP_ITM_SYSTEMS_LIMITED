@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Copy Constructor Driver Program: " << endl;
+    Polygon p1(4);
+    Polygon p2(p1);
+    p1.print();
+    p2.print();
+    p1.setX(50);
+    p1.setY(60);
+    p2.setX(5);
+    p2.setY(6);
+}

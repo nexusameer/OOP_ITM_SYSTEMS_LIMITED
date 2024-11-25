@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\OOP\\CopyConstructorAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|F:\\Projects\\OOP\\CopyConstructorAssignment\\CopyConstructorAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|solutionrelative:CopyConstructorAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|F:\\Projects\\OOP\\CopyConstructorAssignment\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|solutionrelative:Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|F:\\Projects\\OOP\\CopyConstructorAssignment\\Polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|solutionrelative:Polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|F:\\Projects\\OOP\\CopyConstructorAssignment\\Polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|solutionrelative:Polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|F:\\Projects\\OOP\\CopyConstructorAssignment\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BF1AF0C-DAD8-4BDF-9CD5-1683CDFC0782}|CopyConstructorAssignment.vcxproj|solutionrelative:Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polygon.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\CopyConstructorAssignment\\Polygon.cpp",
+              "RelativeDocumentMoniker": "Polygon.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\CopyConstructorAssignment\\Polygon.cpp",
+              "RelativeToolTip": "Polygon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T04:13:27.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\CopyConstructorAssignment\\Polygon.h",
+              "RelativeDocumentMoniker": "Polygon.h",
+              "ToolTip": "F:\\Projects\\OOP\\CopyConstructorAssignment\\Polygon.h",
+              "RelativeToolTip": "Polygon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T04:11:15.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\CopyConstructorAssignment\\Point.cpp",
+              "RelativeDocumentMoniker": "Point.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\CopyConstructorAssignment\\Point.cpp",
+              "RelativeToolTip": "Point.cpp",
+              "ViewState": "AgIAAAEAAACAMzMzMzMrwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T15:44:56.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\CopyConstructorAssignment\\Point.h",
+              "RelativeDocumentMoniker": "Point.h",
+              "ToolTip": "F:\\Projects\\OOP\\CopyConstructorAssignment\\Point.h",
+              "RelativeToolTip": "Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T15:42:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CopyConstructorAssignment.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\CopyConstructorAssignment\\CopyConstructorAssignment.cpp",
+              "RelativeDocumentMoniker": "CopyConstructorAssignment.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\CopyConstructorAssignment\\CopyConstructorAssignment.cpp",
+              "RelativeToolTip": "CopyConstructorAssignment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T15:39:53.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\OOP\\Quiz 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBF5062-AC82-46A3-A6CD-AA0EA2D54323}|Quiz 3.vcxproj|F:\\Projects\\OOP\\Quiz 3\\ToDoList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DBF5062-AC82-46A3-A6CD-AA0EA2D54323}|Quiz 3.vcxproj|solutionrelative:ToDoList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBF5062-AC82-46A3-A6CD-AA0EA2D54323}|Quiz 3.vcxproj|F:\\Projects\\OOP\\Quiz 3\\Owner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DBF5062-AC82-46A3-A6CD-AA0EA2D54323}|Quiz 3.vcxproj|solutionrelative:Owner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBF5062-AC82-46A3-A6CD-AA0EA2D54323}|Quiz 3.vcxproj|F:\\Projects\\OOP\\Quiz 3\\Quiz 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DBF5062-AC82-46A3-A6CD-AA0EA2D54323}|Quiz 3.vcxproj|solutionrelative:Quiz 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoList.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Quiz 3\\ToDoList.h",
+              "RelativeDocumentMoniker": "ToDoList.h",
+              "ToolTip": "F:\\Projects\\OOP\\Quiz 3\\ToDoList.h",
+              "RelativeToolTip": "ToDoList.h",
+              "ViewState": "AgIAABUAAACAZmZmZmYWwCUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T05:56:52.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Owner.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Quiz 3\\Owner.h",
+              "RelativeDocumentMoniker": "Owner.h",
+              "ToolTip": "F:\\Projects\\OOP\\Quiz 3\\Owner.h",
+              "RelativeToolTip": "Owner.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T05:56:38.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz 3.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Quiz 3\\Quiz 3.cpp",
+              "RelativeDocumentMoniker": "Quiz 3.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\Quiz 3\\Quiz 3.cpp",
+              "RelativeToolTip": "Quiz 3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T05:54:38.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,19 +1,22 @@
-#pragma once
-#include<string>
-#include<iostream>
-using namespace std;
+#ifndef OWNER_H
+#define OWNER_H
 
-class Owner
-{
-public:
-	Owner(string first, string last) : first_name(first), last_name(last) {
-	}
-	void setName(string first, string last) {
-		first_name = first;
-		last_name = last;
-	}
+#include <string>
+
+class Owner {
 private:
-	string first_name;
-	string last_name;
+    std::string first_name;
+    std::string last_name;
+
+public:
+    // Constructor
+    Owner(const std::string& first, const std::string& last)
+        : first_name(first), last_name(last) {}
+
+    // Getter for full name
+    std::string getFullName() const {
+        return first_name + " " + last_name;
+    }
 };
 
+#endif

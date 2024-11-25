@@ -1,20 +1,21 @@
-// Quiz 3.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
-#include <iostream>
-using namespace std;
-#include "Owner.h"
 #include "ToDoList.h"
 
-int main()
-{
+int main() {
+    // Create ToDoList A
+    ToDoList A("Huda", "Sarfraz", 20);
+    A.addItem("Prepare lecture");
+    A.addItem("Make exam");
+    A.addItem("Grade exam");
 
-	ToDoList A("Huda", "Sarfraz", 20);
-	A.addTasks[1]("prepare lecture");
-	A.addTasks[2]("Make exam");
-	A.addTasks[3]("Grade exam");
-	ToDoList B(A)[1];
-	A.addTasks[2]("Invigilate exam");
-	A.addTasks[3]("Attend meeting");
+    // Create ToDoList B as a copy of A
+    ToDoList B(A);
+    B.addItem("Invigilate exam");
+    B.addItem("Attend meeting");
 
+    // Print both lists
+    A.print();
+    std::cout << std::endl;
+    B.print();
+
+    return 0;
 }

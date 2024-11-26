@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+class PersonalInfo {
+public:
+	void setfname(string name) {
+		fname = name;
+	}
+	void setlname(string name) {
+		lname = name;
+	}
+	/*void print() {
+
+	}*/
+private:
+	string fname;
+	string lname;
+};

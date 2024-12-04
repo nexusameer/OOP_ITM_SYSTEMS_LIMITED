@@ -1,0 +1,101 @@
+#include <iostream>
+#include <string>
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
+// Base class: Alien
+class Alien {
+protected:
+    string name;
+    int health;
+
+public:
+    Alien(string name) : name(name), health(100) {}
+
+    virtual ~Alien() {}
+
+    bool isDead() const {
+        return health <= 0;
+    }
+
+    virtual void speak() const = 0; // Pure virtual function
+    virtual void shoot() = 0;       // Pure virtual function
+
+    int getHealth() const {
+        return health;
+    }
+
+    string getName() const {
+        return name;
+    }
+};
+
+// Derived class: Klingon
+class Klingon : public Alien {
+public:
+    Klingon(string name) : Alien(name) {}
+
+    void speak() const override {
+        cout << name << ": Own the day" << endl;
+    }
+
+    void shoot() override {
+        health -= 5;
+    }
+};
+
+// Derived class: Vulcan
+class Vulcan : public Alien {
+public:
+    Vulcan(string name) : Alien(name) {}
+
+    void speak() const override {
+        cout << name << ": Live long and prosper" << endl;
+    }
+
+    void shoot() override {
+        health -= 20;
+    }
+};
+
+// Driver program
+int main() {
+    srand(static_cast<unsigned>(time(0))); // Seed for random numbers
+
+    // Create one Klingon and one Vulcan object
+    Klingon klingon("Huda");
+    Vulcan vulcan("Asma");
+
+    cout << "Objects created ..." << endl;
+
+    // Test the speak functions
+    klingon.speak();
+    vulcan.speak();
+
+    cout << "Shooting in progress ..." << endl;
+
+    // Pointer to Alien
+    Alien *alienPtr = nullptr;
+
+    // Shooting the Vulcan
+    alienPtr = &vulcan;
+    int vulcanShots = rand() % 20 + 1; // Random shots between 1 and 20
+    for (int i = 0; i < vulcanShots; i++) {
+        alienPtr->shoot();
+    }
+
+    // Shooting the Klingon
+    alienPtr = &klingon;
+    int klingonShots = rand() % 20 + 1; // Random shots between 1 and 20
+    for (int i = 0; i < klingonShots; i++) {
+        alienPtr->shoot();
+    }
+
+    // Check if they are alive or dead
+    cout << klingon.getName() << " is " << (klingon.isDead() ? "dead" : "alive") << endl;
+    cout << vulcan.getName() << " is " << (vulcan.isDead() ? "dead" : "alive") << endl;
+
+    return 0;
+}

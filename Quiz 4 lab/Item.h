@@ -1,25 +1,23 @@
-#pragma once
-#include<iostream>
-#include<string>
+#ifndef ITEM_H
+#define ITEM_H
+
+#include <iostream>
+#include <string>
 using namespace std;
-class Item
-{
-public:
-	Item() {
-		name = "";
-		price = 10;
-	}
-	Item(string name, int price) {
-		this->name = name;
-		this->price = price;
-	}
-	//A print function that prints the name and the price[1]
-	void PrintBill() {
-		cout << name << endl;
-		cout << price << endl;
-	}
+
+class Item {
 private:
-	string name;
-	int price;
+    string name;
+    int price;
+
+public:
+    Item() : name(""), price(0) {}
+    Item(string name, int price) : name(name), price(price) {}
+    void print() const {
+        cout << "Item: " << name << ", Price: " << price << endl;
+    }
+    string getName() const { return name; }
+    int getPrice() const { return price; }
 };
 
+#endif

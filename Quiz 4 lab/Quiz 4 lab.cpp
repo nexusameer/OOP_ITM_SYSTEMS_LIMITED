@@ -1,37 +1,33 @@
-// Quiz 4 lab.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 
 #include <iostream>
 using namespace std;
 #include "Cart.h"
-#include "Item.h"
-int main()
-{
-	Cart mycart;
-	Item item1;
-	Item item2;
-	Item item3;
 
-	mycart.AddItem(item1);
-	mycart.AddItem(item2);
-	mycart.AddItem(item3);
+int main() {
+    Cart mycart;
 
-	mycart.PrintBill();
+    Item item1("Apple", 30);
+    Item item2("Banana", 20);
+    Item item3("Orange", 50);
+    mycart.insertItem(item1);
+    mycart.insertItem(item2);
+    mycart.insertItem(item3);
 
-	Cart another_cart(mycart);
+    cout << "Bill for my cart:" << endl;
+    mycart.printBill();
 
-	another_cart.PrintBill();
+    Cart another_cart = mycart;
 
-	another_cart.AddItem(item3);
-	
+    Item item4("Mango", 40);
+    another_cart.insertItem(item4);
 
-	mycart.PrintBill();
+    cout << "\nBill for another_cart:" << endl;
+    another_cart.printBill();
 
+    cout << "\nBill for my cart after modification:" << endl;
+    mycart.printBill();
 
-
-
-
-      
-
+    return 0;
 }
+
 

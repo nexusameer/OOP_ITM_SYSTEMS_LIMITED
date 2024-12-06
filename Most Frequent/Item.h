@@ -37,7 +37,6 @@ public:
 		return price;
 	}
 
-
     static string most_frequent_item(Item items[], int size) {
         if (size == 0) return "";
 

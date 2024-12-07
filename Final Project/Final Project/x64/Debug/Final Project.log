@@ -1,0 +1,8 @@
+﻿  Final Project.cpp
+F:\Projects\OOP\Final Project\MathChallenge.h(11,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Final%20Project.cpp')
+  
+F:\Projects\OOP\Final Project\Final Project.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Player.cpp
+  Generating Code...
+  Final Project.vcxproj -> F:\Projects\OOP\Final Project\x64\Debug\Final Project.exe

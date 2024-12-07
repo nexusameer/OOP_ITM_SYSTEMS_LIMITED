@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "F:\\Projects\\OOP\\Final Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|F:\\Projects\\OOP\\Final Project\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|F:\\Projects\\OOP\\Final Project\\Final Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|solutionrelative:Final Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|F:\\Projects\\OOP\\Final Project\\Anagram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|solutionrelative:Anagram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|F:\\Projects\\OOP\\Final Project\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|F:\\Projects\\OOP\\Final Project\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|F:\\Projects\\OOP\\Final Project\\MathChallenge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|solutionrelative:MathChallenge.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|F:\\Projects\\OOP\\Final Project\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|F:\\Projects\\OOP\\Final Project\\Anagram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F9FD7D-C9AD-4767-A329-9B1E502D2B96}|Final Project.vcxproj|solutionrelative:Anagram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Player.h",
               "DocumentMoniker": "F:\\Projects\\OOP\\Final Project\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
-              "ToolTip": "F:\\Projects\\OOP\\Final Project\\Player.h*",
-              "RelativeToolTip": "Player.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ToolTip": "F:\\Projects\\OOP\\Final Project\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAABoAAABAy8zMzMwYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-07T09:36:38.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Final Project.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Final Project\\Final Project.cpp",
+              "RelativeDocumentMoniker": "Final Project.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\Final Project\\Final Project.cpp*",
+              "RelativeToolTip": "Final Project.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T18:49:29.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Anagram.h",
               "DocumentMoniker": "F:\\Projects\\OOP\\Final Project\\Anagram.h",
               "RelativeDocumentMoniker": "Anagram.h",
@@ -63,8 +76,7 @@
               "RelativeToolTip": "Anagram.h",
               "ViewState": "AgIAAAkAAAAAzczMzMwXwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-07T06:44:30.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T06:44:30.998Z"
             },
             {
               "$type": "Document",
@@ -81,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Game.h",
               "DocumentMoniker": "F:\\Projects\\OOP\\Final Project\\Game.h",
               "RelativeDocumentMoniker": "Game.h",
@@ -90,19 +102,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-06T18:50:05.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Final Project.cpp",
-              "DocumentMoniker": "F:\\Projects\\OOP\\Final Project\\Final Project.cpp",
-              "RelativeDocumentMoniker": "Final Project.cpp",
-              "ToolTip": "F:\\Projects\\OOP\\Final Project\\Final Project.cpp",
-              "RelativeToolTip": "Final Project.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T18:49:29.162Z",
               "EditorCaption": ""
             }
           ]

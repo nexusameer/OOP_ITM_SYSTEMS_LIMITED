@@ -9,5 +9,5 @@ using namespace std;
 int main()
 {
     Player a;
-    a.Register("hamza", "qaz");
+    a.Login("ameer", "aasz");
 }

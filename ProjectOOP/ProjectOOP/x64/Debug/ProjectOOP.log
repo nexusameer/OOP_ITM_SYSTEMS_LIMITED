@@ -1,0 +1,5 @@
+﻿  GameApp.cpp
+C:\Users\aun\source\repos\ProjectOOP\ProjectOOP\GameApp.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectOOP.cpp
+  Generating Code...
+  ProjectOOP.vcxproj -> C:\Users\aun\source\repos\ProjectOOP\x64\Debug\ProjectOOP.exe

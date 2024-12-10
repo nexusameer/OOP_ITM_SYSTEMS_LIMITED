@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{6B128DF3-A2ED-4CEC-8211-1E696F577902}|Final Paper.vcxproj|F:\\Projects\\OOP\\Final Paper\\Final Paper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6B128DF3-A2ED-4CEC-8211-1E696F577902}|Final Paper.vcxproj|solutionrelative:Final Paper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B128DF3-A2ED-4CEC-8211-1E696F577902}|Final Paper.vcxproj|F:\\Projects\\OOP\\Final Paper\\KoiBiColor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B128DF3-A2ED-4CEC-8211-1E696F577902}|Final Paper.vcxproj|solutionrelative:KoiBiColor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B128DF3-A2ED-4CEC-8211-1E696F577902}|Final Paper.vcxproj|F:\\Projects\\OOP\\Final Paper\\KoiTriColor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B128DF3-A2ED-4CEC-8211-1E696F577902}|Final Paper.vcxproj|solutionrelative:KoiTriColor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B128DF3-A2ED-4CEC-8211-1E696F577902}|Final Paper.vcxproj|F:\\Projects\\OOP\\Final Paper\\Koi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B128DF3-A2ED-4CEC-8211-1E696F577902}|Final Paper.vcxproj|solutionrelative:Koi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Final Paper.cpp",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Final Paper\\Final Paper.cpp",
+              "RelativeDocumentMoniker": "Final Paper.cpp",
+              "ToolTip": "F:\\Projects\\OOP\\Final Paper\\Final Paper.cpp",
+              "RelativeToolTip": "Final Paper.cpp",
+              "ViewState": "AgIAABsAAACAzMzMzMwXwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T16:55:34.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -26,15 +52,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Final Paper.cpp",
-              "DocumentMoniker": "F:\\Projects\\OOP\\Final Paper\\Final Paper.cpp",
-              "RelativeDocumentMoniker": "Final Paper.cpp",
-              "ToolTip": "F:\\Projects\\OOP\\Final Paper\\Final Paper.cpp",
-              "RelativeToolTip": "Final Paper.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-09T16:55:34.518Z",
+              "DocumentIndex": 3,
+              "Title": "Koi.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Final Paper\\Koi.h",
+              "RelativeDocumentMoniker": "Koi.h",
+              "ToolTip": "F:\\Projects\\OOP\\Final Paper\\Koi.h",
+              "RelativeToolTip": "Koi.h",
+              "ViewState": "AgIAAAMAAACAMzMzM7MdwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T05:09:35.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KoiBiColor.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Final Paper\\KoiBiColor.h",
+              "RelativeDocumentMoniker": "KoiBiColor.h",
+              "ToolTip": "F:\\Projects\\OOP\\Final Paper\\KoiBiColor.h",
+              "RelativeToolTip": "KoiBiColor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T05:09:58.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KoiTriColor.h",
+              "DocumentMoniker": "F:\\Projects\\OOP\\Final Paper\\KoiTriColor.h",
+              "RelativeDocumentMoniker": "KoiTriColor.h",
+              "ToolTip": "F:\\Projects\\OOP\\Final Paper\\KoiTriColor.h",
+              "RelativeToolTip": "KoiTriColor.h",
+              "ViewState": "AgIAAAYAAACAZmZmZuYswBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-10T05:10:43.959Z",
               "EditorCaption": ""
             }
           ]

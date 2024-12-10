@@ -18,5 +18,25 @@
     <ClCompile Include="Final Paper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Koi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KoiBiColor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KoiTriColor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Koi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KoiBiColor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KoiTriColor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

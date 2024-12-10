@@ -128,6 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Final Paper.cpp" />
+    <ClCompile Include="Koi.cpp" />
+    <ClCompile Include="KoiBiColor.cpp" />
+    <ClCompile Include="KoiTriColor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Koi.h" />
+    <ClInclude Include="KoiBiColor.h" />
+    <ClInclude Include="KoiTriColor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

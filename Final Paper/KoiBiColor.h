@@ -5,7 +5,7 @@ using namespace std;
 class KoiBiColor : public Koi {
 public:
     KoiBiColor() {
-        health = 5; // Default health for bicolor koi
+        health = 5;
     }
 
     ~KoiBiColor() {}
@@ -24,6 +24,6 @@ public:
 
     void viraAttack() override {
         health -= 1;
-        if (health < 0) health = 0; // Ensure health does not go below 0
+        if (health < 0) health = 0;
     }
 };

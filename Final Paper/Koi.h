@@ -15,15 +15,12 @@ public:
 
     virtual ~Koi() {}
 
+    int getId() const { return id; }
+
     virtual void display() = 0;
     virtual void viraAttack() = 0;
 
     void feed() {
         health++;
     }
-    int getId() {
-        return id;
-    }
 };
-
-

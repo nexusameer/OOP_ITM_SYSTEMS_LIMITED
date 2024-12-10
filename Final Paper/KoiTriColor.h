@@ -1,6 +1,5 @@
+#pragma once
 #include "Koi.h"
-#include <iostream>
-using namespace std;
 
 class KoiTriColor : public Koi {
 public:
@@ -10,27 +9,28 @@ public:
 
     ~KoiTriColor() {}
 
-    void display() {
+    void display() override {
         if (health > 0) {
             for (int i = 0; i < health; i++) {
                 if (i % 3 == 0) {
-                    cout << "~";
+                    std::cout << "~";
                 }
                 else if (i % 3 == 1) {
-                    cout << "!";
+                    std::cout << "!";
                 }
                 else {
-                    cout << "#";
+                    std::cout << "#";
                 }
             }
         }
         else {
-            cout << "xx";
+            std::cout << "xx";
         }
-        cout << endl;
+        std::cout << std::endl;
     }
 
-    void viraAttack() {
+    void viraAttack() override {
         health--;
+        if (health < 0) health = 0;
     }
 };

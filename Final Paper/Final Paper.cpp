@@ -1,9 +1,10 @@
 #include <iostream>
 #include <vector>
-using namespace std;
 #include "Koi.h"
 #include "KoiBiColor.h"
 #include "KoiTriColor.h"
+
+using namespace std;
 
 int main() {
     vector<Koi*> pond;
@@ -21,15 +22,16 @@ int main() {
         }
     }
 
+    // Display pond in initial state
     cout << "Displaying pond in initial state:" << endl;
-    for (int i = 0; i < pond.size(); i++) {
-        cout << pond[i]->getId() << ": ";
+    for (size_t i = 0; i < pond.size(); i++) {
+        cout << "Koi " << pond[i]->getId() << ": ";
         pond[i]->display();
     }
 
-
+    // Feed koi
     char feedChoice;
-    for (int i = 0; i < pond.size()+1; i++) {
+    for (size_t i = 0; i < pond.size(); i++) {
         cout << "Would you like to feed your koi? (y/n): ";
         cin >> feedChoice;
         if (feedChoice == 'y') {
@@ -37,27 +39,29 @@ int main() {
         }
     }
 
-    cout << "Displaying after feeding:" << endl;
-    for (int i = 0; i < pond.size(); i++) {
-        cout << pond[i]->getId() << ": ";
+    // Display pond after feeding
+    cout << "Displaying pond after feeding:" << endl;
+    for (size_t i = 0; i < pond.size(); i++) {
+        cout << "Koi " << pond[i]->getId() << ": ";
         pond[i]->display();
     }
 
-    for (int i = 0; i < pond.size(); i++) {
+    // Simulate viral attack
+    for (size_t i = 0; i < pond.size(); i++) {
         pond[i]->viraAttack();
     }
 
-    cout << "Displaying after viral attack:" << endl;
-    for (int i = 0; i < pond.size(); i++) {
-        cout << pond[i]->getId() << ": ";
+    // Display pond after viral attack
+    cout << "Displaying pond after viral attack:" << endl;
+    for (size_t i = 0; i < pond.size(); i++) {
+        cout << "Koi " << pond[i]->getId() << ": ";
         pond[i]->display();
     }
 
-    for (int i = 0; i < pond.size(); i++) {
+    // Clean up
+    for (size_t i = 0; i < pond.size(); i++) {
         delete pond[i];
     }
 
     return 0;
 }
-
-

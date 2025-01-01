@@ -44,7 +44,7 @@ int main() {
     }
 
     for (size_t i = 0; i < pond.size(); i++) {
-        pond[i]->viraAttack();
+        pond[i]->viralAttack();
     }
 
     cout << "Displaying pond after viral attack:" << endl;

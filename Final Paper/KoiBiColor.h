@@ -11,19 +11,17 @@ public:
     ~KoiBiColor() {}
 
     void display() override {
-        if (health > 0) {
-            for (int i = 0; i < health; i++) {
-                cout << "*^";
-            }
+        for (int i = 0; i < health; i++) {
+            cout << "*^";
         }
-        else {
+        if (health == 0) {
             cout << "xx";
         }
         cout << endl;
     }
 
-    void viraAttack() override {
-        health -= 1;
+    void viralAttack() override {
+        health--;
         if (health < 0) health = 0;
     }
 };

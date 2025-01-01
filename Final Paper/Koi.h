@@ -18,9 +18,16 @@ public:
     int getId() const { return id; }
 
     virtual void display() = 0;
-    virtual void viraAttack() = 0;
 
     void feed() {
         health++;
+    }
+
+    virtual void viralAttack() {
+        health--;
+        if (health <= 0) {
+            // Mark the koi as removed or set a flag
+            // This prevents further access to the object
+        }
     }
 };

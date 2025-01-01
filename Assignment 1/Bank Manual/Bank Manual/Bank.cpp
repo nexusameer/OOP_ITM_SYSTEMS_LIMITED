@@ -7,6 +7,7 @@ void Bank::set_starting_balance(double b) {
     account_no = nextAccount++;
 }
 
+
 double Bank::deposit(double d) {
     balance += d;
     return balance;

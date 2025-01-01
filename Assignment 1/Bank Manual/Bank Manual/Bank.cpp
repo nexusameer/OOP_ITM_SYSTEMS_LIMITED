@@ -12,6 +12,8 @@ double Bank::deposit(double d) {
     return balance;
 }
 
+
+
 double Bank::withdraw(double w) {
     if (w <= balance) {
         balance -= w;

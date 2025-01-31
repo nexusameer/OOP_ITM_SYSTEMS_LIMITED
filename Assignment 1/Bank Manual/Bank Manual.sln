@@ -4,6 +4,7 @@
 
 
 
+
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bank Manual", "Bank Manual\Bank Manual.vcxproj", "{EDF43B07-D0E8-4DF4-A9E1-BB96CC70A34F}"

@@ -1,5 +1,6 @@
 #pragma once
 class Light
+
 {
 private:
 	char shape;

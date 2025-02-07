@@ -1,5 +1,6 @@
 #pragma once
 class Wallet
+
 {
 private:
 	float balance=0.0;

@@ -1,8 +1,6 @@
 #include <iostream>
 #include "Bank.h"
-
 using namespace std;
-
 int main() {
     double b, d, w;
     int n = 0;

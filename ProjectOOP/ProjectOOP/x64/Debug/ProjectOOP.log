@@ -1,18 +1,5 @@
-﻿  Anagrams.cpp
-F:\Projects\OOP\ProjectOOP\ProjectOOP\Anagrams.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Game.cpp
-  GameApp.cpp
-F:\Projects\OOP\ProjectOOP\ProjectOOP\GameApp.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  MathChallenge.cpp
-F:\Projects\OOP\ProjectOOP\ProjectOOP\MathChallenge.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  MissingNumber.cpp
-F:\Projects\OOP\ProjectOOP\ProjectOOP\MissingNumber.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  NumberGuessing.cpp
-F:\Projects\OOP\ProjectOOP\ProjectOOP\NumberGuessing.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Player.cpp
-F:\Projects\OOP\ProjectOOP\ProjectOOP\Player.cpp(32,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+﻿  GameApp.cpp
+C:\Users\aun\source\repos\ProjectOOP\ProjectOOP\GameApp.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   ProjectOOP.cpp
-  RockPaperScissors.cpp
-F:\Projects\OOP\ProjectOOP\ProjectOOP\RockPaperScissors.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating Code...
-  ProjectOOP.vcxproj -> F:\Projects\OOP\ProjectOOP\x64\Debug\ProjectOOP.exe
+  ProjectOOP.vcxproj -> C:\Users\aun\source\repos\ProjectOOP\x64\Debug\ProjectOOP.exe
